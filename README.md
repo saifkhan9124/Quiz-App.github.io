@@ -1,7 +1,10 @@
 Summary:
 This is a simple quiz application built using HTML, CSS, and JavaScript. It presents a series of questions with multiple-choice answers to the user. The user can select an answer for each question, and the application provides immediate feedback on whether the answer is correct or incorrect. At the end of the quiz, the user is shown their score.
 Description:
-This quiz application is designed to provide users with an interactive experience. It features a clean and user-friendly interface built using HTML and styled with CSS for a visually appealing presentation. The JavaScript code controls the functionality of the quiz, including displaying questions, handling user responses, and calculating the score.
+This quiz application is designed to provide users with an interactive experience. It features a clean and user-friendly interface built using HTML and styled with CSS for a visually appealing 
+
+presentation:
+The JavaScript code controls the functionality of the quiz, including displaying questions, handling user responses, and calculating the score.
 
 Here's how the application works:
 
